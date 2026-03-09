@@ -51,9 +51,3 @@ To add your own questions, edit `questions.json` following this format:
 - `question` — the question text
 - `options` — array of answer choices
 - `correct` — index of the correct answer (0 = first option, 1 = second, etc.)
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
